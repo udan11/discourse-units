@@ -1,0 +1,10 @@
+{
+  "name": "discourse-units",
+  "component": true,
+  "license_url": null,
+  "about_url": null,
+  "authors": "Dan Ungureanu",
+  "theme_version": "v0.1",
+  "assets": {},
+  "color_schemes": {}
+}
